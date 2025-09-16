@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird -- Pygame Edition
+# 🐦 Flappy Bird - Pygame Edition
 
 A fun and simple **Flappy Bird clone** built using **Python** and
 **Pygame**.\
@@ -84,6 +84,7 @@ This project is open-source and free to use for learning & fun 🎉
 
 👤 **Mayank Kumar Shah**\
 🔗 [GitHub Profile](https://github.com/Mayank-cyber-cell)
+
 
 
 
