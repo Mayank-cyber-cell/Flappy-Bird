@@ -7,7 +7,7 @@ animations.
 
 ------------------------------------------------------------------------
 
-## 🎮 Features
+## 🎮 Featuresssss
 
 -   Smooth **bird animations** (flapping up, mid, down).\
 -   Randomly generated **pipes** with collision detection.\
@@ -84,4 +84,5 @@ This project is open-source and free to use for learning & fun 🎉
 
 👤 **Mayank Kumar Shah**\
 🔗 [GitHub Profile](https://github.com/Mayank-cyber-cell)
+
 
